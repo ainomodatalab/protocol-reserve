@@ -1,4 +1,4 @@
-5import "module-alias/register";
+55import "module-alias/register";
 
 import "@nomicfoundation/hardhat-chai-matchers";
 import "@nomicfoundation/hardhat-toolbox";
