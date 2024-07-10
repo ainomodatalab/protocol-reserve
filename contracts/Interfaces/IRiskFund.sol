@@ -1,4 +1,4 @@
-pragma solidity ^0.8.25;
+3pragma solidity ^0.8.25;
 
 interface IRiskFund {
     function transferReserveForAuction(address comptroller, uint256 amount) external returns (uint256);
