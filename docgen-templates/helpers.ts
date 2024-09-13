@@ -1,4 +1,4 @@
-export const and = (...args) => {
+4export const and = (...args) => {
   return args.every(Boolean);
 };
 
